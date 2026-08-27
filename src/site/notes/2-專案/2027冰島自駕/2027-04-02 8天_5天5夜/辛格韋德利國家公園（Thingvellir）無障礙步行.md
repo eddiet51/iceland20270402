@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"景點/辛格韋德利國家公園-長輩友善.md","permalink":"/景點/辛格韋德利國家公園-長輩友善/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"景點/第2天/1.辛格韋德利國家公園-長輩友善.md","permalink":"/景點/第2天/1.辛格韋德利國家公園-長輩友善/","dg-note-properties":{}}
 ---
 
 # 🇮🇸 冰島金圈：辛格韋德利國家公園（Thingvellir）無障礙自駕筆記
