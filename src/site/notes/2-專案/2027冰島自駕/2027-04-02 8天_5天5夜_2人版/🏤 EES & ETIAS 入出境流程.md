@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"🏤 EES & ETIAS 入出境流程.md","permalink":"/🏤 EES & ETIAS 入出境流程/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"_2人版/🏤 EES & ETIAS 入出境流程.md","permalink":"/_2人版/🏤 EES & ETIAS 入出境流程/","dg-note-properties":{}}
 ---
 
 ### EES & ETIAS 入出境流程
