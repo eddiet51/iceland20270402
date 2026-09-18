@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_2人版/✈️ 2026 冰島轉機、出入境與行李直掛實戰手冊 (KHH ➔ KEF).md","permalink":"/_2人版/✈️ 2026 冰島轉機、出入境與行李直掛實戰手冊 (KHH ➔ KEF)/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"✈️ 2026 冰島轉機、出入境與行李直掛實戰手冊 (KHH ➔ KEF).md","permalink":"/✈️ 2026 冰島轉機、出入境與行李直掛實戰手冊 (KHH ➔ KEF)/","dg-note-properties":{}}
 ---
 
 # ✈️ 2026 冰島轉機、出入境與行李直掛實戰手冊 (KHH ➔ KEF)
